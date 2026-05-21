@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 150 30" fill="none">
+  <!-- Sierra Interactive "S" mountain mark -->
+  <rect x="2" y="3" width="24" height="24" rx="4" fill="#2D2D2D"/>
+  <path d="M8 22l5-8 4 5 5-7 4 10" stroke="#fff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+  <text x="34" y="21" font-family="system-ui,-apple-system,sans-serif" font-size="13" font-weight="600" fill="#2D2D2D" letter-spacing="-0.1">Sierra Interactive</text>
+</svg>
