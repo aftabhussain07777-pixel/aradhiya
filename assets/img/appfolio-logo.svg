@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 30" fill="none">
+  <!-- AppFolio "A" with property mark -->
+  <path d="M13 4L5 24M13 4l8 20M13 4l-3 7.5M13 4l3 7.5M3 18h20" stroke="#2D2D2D" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="34" y="21" font-family="system-ui,-apple-system,sans-serif" font-size="15" font-weight="600" fill="#2D2D2D" letter-spacing="-0.1">AppFolio</text>
+</svg>
